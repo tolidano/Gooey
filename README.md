@@ -1,6 +1,6 @@
 Gooey 
 =====  
-Turn (almost) any Python 2 or 3 Console Program into a GUI application with one line
+Turn (almost) any Python 2 or 3 command-line application into a GUI application with one line
 
 <p align="center">
     <img src="https://github.com/chriskiehl/GooeyImages/raw/images/readme-images/1-0-4-title-card.png" />
